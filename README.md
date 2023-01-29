@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currenlty learning in back-end tech
+I'm currenlty learning in java and web development
 
 
 ## 🌐 Socials:
