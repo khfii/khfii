@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm currently learning javascript and its framework like react.
+I'm currently learning javascript and laravel.
 
 ## 🌐 Socials:
 
